@@ -1,0 +1,11 @@
+house, casa
+dog, perro
+homework, tarea
+woman, mujer
+town, pueblo
+yes, si
+car, carro
+blanket, sabana
+cat, gato
+cushion, cojin
+bed, cama
